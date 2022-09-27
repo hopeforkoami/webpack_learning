@@ -1,0 +1,25 @@
+{
+  "name": "webpack_learning",
+  "version": "1.0.0",
+  "description": "trying to setup a webpack project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopeforkoami/webpack_learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopeforkoami/webpack_learning/issues"
+  },
+  "homepage": "https://github.com/hopeforkoami/webpack_learning#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
