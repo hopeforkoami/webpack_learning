@@ -4,7 +4,8 @@
   "description": "trying to setup a webpack project",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development"
+    "dev": "webpack --mode development",
+    "start": "webpack serve --open"
   },
   "repository": {
     "type": "git",
